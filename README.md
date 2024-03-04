@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Ali!
 - 👀 I’m interested in full-stack web development and computer science.
-- 🌱 I’m currently learning data structures and algorithms and documenting my journey going through it! Check out my DSA repository.
 - 📫 ialimalik99@gmail.com
 
 <!---
